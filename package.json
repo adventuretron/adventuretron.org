@@ -1,0 +1,19 @@
+{
+  "name": "adventuretron.org",
+  "version": "1.0.0",
+  "description": "Website for Adventuretron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sethvincent",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adventuretron/adventuretron.org.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adventuretron/adventuretron.org/issues"
+  },
+  "homepage": "https://github.com/adventuretron/adventuretron.org#readme"
+}
