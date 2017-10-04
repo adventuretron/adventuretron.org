@@ -4,6 +4,7 @@
   "description": "Website for Adventuretron",
   "main": "index.js",
   "scripts": {
+    "start": "budo",
     "deploy": "staticland deploy . -d adventuretron.org"
   },
   "author": "sethvincent",
